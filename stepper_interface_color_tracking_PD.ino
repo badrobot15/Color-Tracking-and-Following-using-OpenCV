@@ -24,7 +24,7 @@ void loop() {
           break;
         }
         inputStringR += inChar;
-      }
+      }break;
     }
     inputStringL += inChar;  
   }
